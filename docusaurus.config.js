@@ -11,7 +11,7 @@ const projectName = "stupefied-sikh";
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: `https://${organizationName}.github.io/stupefied-sikh`,
+  url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
